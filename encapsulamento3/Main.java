@@ -1,0 +1,11 @@
+package encapsulamento3;
+
+public class Main {
+    public static void main(String[] args) {
+        Usuario usuario1 = new Usuario();
+        
+        usuario1.setNome("");
+        System.out.println(usuario1.getNome());
+    }
+    
+}
