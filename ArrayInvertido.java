@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/* import java.util.Scanner;
 
 public class Main {
     public static void programa(int[] numeros) {
@@ -34,4 +34,4 @@ public class Main {
         input.close();
     
     }
-}
+} */
